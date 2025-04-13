@@ -1,0 +1,5 @@
+# Pycharm .idea folder
+.idea/
+
+# Jupyter Notebook .checkpoint folder
+.ipynb_checkpoints/
