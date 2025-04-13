@@ -3,3 +3,4 @@
 
 # Jupyter Notebook .checkpoint folder
 .ipynb_checkpoints/
+env/
