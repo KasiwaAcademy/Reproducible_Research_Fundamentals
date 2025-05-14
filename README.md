@@ -1,3 +1,3 @@
 # Reproducible Research Fundamentals -World Bank
 
-This project part of the professional development course offered by the World Bank to train researchers and aspiring researchers on how they can enhance and promote reproducibility in their research. The Project is still being implemented.
+This was an initiative by the World Bank to help students from developing countries develop best practices for initiating and conducting reproducible Research.
